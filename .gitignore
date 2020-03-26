@@ -2,3 +2,4 @@ newfile.txt
 .lostfound
 *.bk
 log/
+*.orig
