@@ -15,3 +15,5 @@ Sample website with plenty of files for demos, for Git training
 Git Training
 
 ## How to Contribute
+
+Do your best
