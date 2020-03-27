@@ -5,6 +5,7 @@
 
     Will -- SysAdmin -- WillOsoC
     Pepe -- Support -- PepeLePu
+    Jose -- Manager -- jmosorio
 
 # THANKS
 
